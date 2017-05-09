@@ -1,0 +1,4 @@
+git remote  -- lists the remotes
+git remote add <remotename> <giturl>
+git remote -v  -- verbose listing of remotes with name and url
+git push <remotename> <branchname> -- to push the commits on a branch of the repository to the git hub repository
